@@ -5,8 +5,6 @@ Hi guys i searched for free bots which apply to 1000 jobs per day but couldnt fi
 
 i am currently working on it and tuning it,
 
-https://jobbot-applicator-0npj045.public.builtwithrocket.new/
-
-thats the link for it,
+link coming soon
 
 All the best jobseekers !!
