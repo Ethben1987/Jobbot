@@ -4,10 +4,10 @@ https://career-compass-e621eb23.base44.app
 
 100% free to use job search platform.
 
-AI-powered search across 1100+ job boards including LinkedIn, Indeed, Glassdoor, ZipRecruiter, Monster, Remote.co, AngelList, and more
+AI-powered search across 50000+ job boards including LinkedIn, Indeed, Glassdoor, ZipRecruiter, Monster, Remote.co, AngelList, and more
 
 Our AI searches these platforms and many more to find the best opportunities for you
 
-AI-powered search across 1100+ global job boards • Advanced filters • Save searches
+AI-powered search across 50,000+ global job boards • Every country & industry • Advanced filters • Save searches
 
 i am still tuning it, feel free to use it as per your convienience.
