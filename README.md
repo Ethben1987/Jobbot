@@ -8,6 +8,6 @@ AI-powered search across 50000+ job boards including LinkedIn, Indeed, Glassdoor
 
 Our AI searches these platforms and many more to find the best opportunities for you
 
-AI-powered search across 50,000+ global job boards • Every country & industry • Advanced filters • Save searches
+AI-powered search across 100,000+ global job boards • Every country & industry • Advanced filters • Save searches
 
 i am still tuning it, feel free to use it as per your convienience.
